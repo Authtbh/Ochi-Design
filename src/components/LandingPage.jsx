@@ -64,8 +64,6 @@ function LandingPage() {
             </div>
             <MarqueeEffect />
             <About />
-            <Eyes />
-
         </>
     )
 }
